@@ -1,0 +1,11 @@
+# --- Data ---
+# Exclude the large dataset CSV file
+/data/full_dataset.csv
+/results/
+
+# Virtual environment folder
+/venv/
+
+# Python cache files
+__pycache__/
+*.pyc
